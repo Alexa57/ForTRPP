@@ -1,1 +1,1 @@
-# ForTRPP
+# ForTRPP Praktika 1
